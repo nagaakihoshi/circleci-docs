@@ -36,6 +36,19 @@ Database images for use as a secondary 'service' container are also available on
 
 ---
 
+## Test Section
+
+{:.codetab.v2_1}
+```bash
+echo "This is brand new CircleCI v2.1 config!"
+```
+
+{:.codetab.v2_0}
+```bash
+echo "This is 2.0 config."
+```
+
+
 ## Sample Configuration
 
 {% raw %}
